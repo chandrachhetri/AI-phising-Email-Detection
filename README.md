@@ -1,1 +1,1 @@
-# AI-phiing-Mail-Detection
+# AI-phising-Mail-Detection
